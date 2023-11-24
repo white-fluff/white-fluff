@@ -16,9 +16,12 @@
 ![Static Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&color=white)
 ![Static Badge](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=Packer&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant)
+![Static Badge](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=flat-square&logo=YandexCloud&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&color=white)
 ![Static Badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 
 
