@@ -4,7 +4,7 @@
 ### About Me
 
  - Since October 21, I have been working as a technical support engineer at Yandex Cloud.
- - Actively developing as DevOps engineer and backend developer.
+ - I’m actively developing as DevOps engineer and backend developer.
 
 ### My Skills:
 
