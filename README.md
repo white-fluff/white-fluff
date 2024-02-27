@@ -3,13 +3,15 @@
 
 ### About Me
 
- - Since October 21, I have been working as a technical support engineer at Yandex Cloud.
- - I’m actively developing as DevOps engineer and backend developer.
+ - Since October 2021, I have been working as a technical support engineer at Yandex Cloud.
+ - Now I'm actively developing as a developer and DevOps engineer.
 
 ### My Skills:
 
 ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Poetry-%3F?style=flat-square&logo=Poetry&logoColor=white&color=60A5FA)
+![Static Badge](https://img.shields.io/badge/Git-%3F?style=flat-square&logo=Git&logoColor=white&color=F05032)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible)
 ![Static Badge](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX)
