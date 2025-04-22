@@ -3,7 +3,7 @@
 
 ### About Me
 
-I love and am actively developing in DevOps and cloud technologies.
+I love and actively develop in DevOps and cloud technologies.
 
 ### My stack:
 
