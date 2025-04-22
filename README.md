@@ -3,7 +3,7 @@
 
 ### About Me
 
-Since October 2021, I have been working as a technical support engineer at Yandex Cloud. Now I am actively developing in the DevOps/SRE directions.
+I love and am actively developing in DevOps and cloud technologies.
 
 ### My stack:
 
